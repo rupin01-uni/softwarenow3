@@ -1,3 +1,5 @@
+## https://github.com/rupin01-uni/softwarenow3.git
+
 # Importing all the necessary modules
 from tkinter import *
 from tkinter import filedialog
@@ -16,7 +18,7 @@ class MusicPlayer(Tk):
 
         # GUI Initialization
         self.geometry('700x220')  #
-        self.title('PythonGeeks Music Player')
+        self.title('MP3 Music Player')
         self.resizable(0, 0)
 
         # All the frames
